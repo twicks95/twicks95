@@ -1,10 +1,10 @@
-<h3 align="center">Hello... 👋</h3>
-<h5 align="center">I'm Teguh. It might sound strange to pronounce my name when you are not Indonesian. So, you can call me Twicks instead :smile_cat: </h5>
+<h2 align="center">Hello... 👋</h2>
+<h4 align="center">I'm Teguh. It might sound strange to pronounce my name when you are not Indonesian. So, you can call me Twicks instead :smile_cat: </h4>
 <hr/>
 
 <div align="center">
   :computer:
-<h5 align="center">A self-taught learner and Full-stack Web Dev. Currently working and building some applications using React Js, Next Js, Node Js, and Express Js. Although I can work as Full-stack but I have more strength when I'm working as a Front-end because I have more interest in visual design and I always put concern and more effort into the design to make users feel easy and comfortable when using the application.</h5>
+<h4 align="center">A self-taught learner and Full-stack Web Dev. Currently working and building some applications using React Js, Next Js, Node Js, and Express Js. Although I can work as Full-stack but I have more strength when I'm working as a Front-end because I have more interest in visual design and I always put concern and more effort into the design to make users feel easy and comfortable when using the application.</h4>
 </div>
 
 
