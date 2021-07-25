@@ -1,4 +1,7 @@
-### Hi there 👋
+### Well hello there... 👋
+### Welcome to my github repository. The place where i stored all my personal project that i've made so far.
+###
+### I'm a Full-stack Web Dev. Currently work and build some application using React Js & Next Js at front and Node Js & Express Js at the back.
 
 <!--
 **twicks95/twicks95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
